@@ -1,0 +1,19 @@
+
+
+button{
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: gray;
+    border-radius: 10px;
+    margin-left:20px ;
+    font-size: 13px;
+
+}
+
+button:hover{
+    transition: 0.3s ease-in;
+    color: black;
+    background-color: white;
+    
+}
