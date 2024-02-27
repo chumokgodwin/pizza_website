@@ -1,9 +1,9 @@
 import React from 'react'
-import InstagramIcon from '@mui/material//Instagram'
-import TwitterIcon from '@mui/material/Twitter'
-import FacebookIcon from '@mui/material/Facebook'
+import InstagramIcon from '@mui/icons-material/Instagram'
+import TwitterIcon from '@mui/icons-material/Twitter'
+import FacebookIcon from '@mui/icons-material/Facebook'
 // import GithubIcon from '@mui/icons-material/Github'
-import LinkedInIcon from '@mui/material/LinkedIn'
+import LinkedInIcon from '@mui/icons-material/LinkedIn'
 // import TiktokIcon from '@mui/icons-material/Tiktok'
 import '../styles/Footer.css'
 
@@ -15,8 +15,7 @@ function Footer() {
             <FacebookIcon/>
             <LinkedInIcon/>
             <TwitterIcon/>
-            <p>&copy; pedrotechpizza.com</p>
-
+            
 
 
         </div>
